@@ -24,7 +24,7 @@
 </div>
 <hr>
   
-- 🔭 I’m currently working on PHP/Laravel, JavaScript and React.
+- 🔭 I’m currently working on PHP/Laravel, JavaScript/Node and React.
 - 🌱 I’m currently learning POO, Design Patterns and Clean Code.
 
 <hr>
