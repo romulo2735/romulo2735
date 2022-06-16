@@ -25,7 +25,7 @@
 <hr>
   
 - 🔭 I’m currently working on PHP/Laravel, JavaScript/Node and React.
-- 🌱 I’m currently learning POO, Design Patterns and Clean Code.
+- 🌱 I’m currently learning POO, Design Patterns, Clean Code and DevOps(Docker, Kubernetes, Terraform and anothers).
 
 <hr>
 <a href="https://www.linkedin.com/in/romulo-sousa-72b47410b" target="_blank">
