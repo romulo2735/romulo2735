@@ -2,13 +2,13 @@
 
 <div>
   <a href="https://github.com/romulo2735">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulo2735&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulo2735&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romulo2735&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romulo2735&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Stacks
   
-<!-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Romulo-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Romulo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Romulo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Romulo-PhpStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
   <img align="center" alt="Romulo-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
---></div>
+</div>
 <hr>
   
 - 🔭 I’m currently working on PHP/Laravel, JavaScript/Node, React and learming Java.
