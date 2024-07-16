@@ -23,7 +23,7 @@
   <img align="center" alt="Romulo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Romulo-PhpStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
   <img align="center" alt="Romulo-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  <img align="center" alt="Romulo-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Romulo-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/nextjs/nextjs-plain.svg">
 </div>
 <hr>
   
