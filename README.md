@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romulo2735&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+    Engenheiro de Software | FullStack | PHP | Laravel | Javascript | Node | React | Next | OWASP | Segurança | DevOps
+
 ### Stacks
   
 <div style="display: inline_block"><br>
@@ -25,7 +27,7 @@
 <hr>
   
 - 🔭 I’m currently working on PHP/Laravel, JavaScript/Node, React and learming Java.
-- 🌱 I’m currently learning Design Patterns, Clean Code and DevOps(Docker, Kubernetes, Terraform and anothers).
+- 🌱 I’m currently learning Design Patterns, Clean Code and DevOps(Docker, Kubernetes).
 
 <hr>
 <a href="https://www.linkedin.com/in/romulo-sousa-72b47410b" target="_blank">
