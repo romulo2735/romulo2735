@@ -11,7 +11,7 @@
 ### Stacks
   
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Romulo-Laravel" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)">
   <img align="center" alt="Romulo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
